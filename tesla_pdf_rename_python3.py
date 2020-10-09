@@ -1,9 +1,8 @@
 import os, PyPDF2, re, io, shutil
 
 # parameter variables
-root_dir = r"/Users/erik/Documents/development/git/tesla_pdf_scraper"
-extract_to = r"/Users/erik/Documents/development/git/tesla_pdf_scraper/extracted"
-rename_to = r"/Users/erik/Documents/development/git/tesla_pdf_scraper/renamed"
+root_dir = r"/Users/erik/Documents/development/git/tesla_invoice_rename"
+rename_to = r"/Users/erik/Documents/development/git/tesla_invoice_rename/renamed"
 
 
 # function for renaming the pdfs based on text in the pdf
