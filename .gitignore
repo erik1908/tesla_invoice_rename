@@ -1,3 +1,5 @@
 pdf_rename_python2.py
 renamed/*
 pdfs/*
+archive/*
+*.pdf
